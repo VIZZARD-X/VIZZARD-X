@@ -9,7 +9,8 @@ I am a backend-focused developer and open-source enthusiast with a deep interest
 
 ---
 ### Recent Open Source Django Contributions
-*( [PRs](https://github.com/django/django/pulls?q=is:pr+is:merged+author:VIZZARD-X))*
+- *( [Merged PRs](https://github.com/django/django/pulls?q=is:pr+is:merged+author:VIZZARD-X))*
+- *( [PRs Working on](https://github.com/django/django/pulls/VIZZARD-X))*
 
 ---
 #### Projects I've been working on 
