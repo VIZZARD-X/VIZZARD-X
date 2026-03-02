@@ -1,6 +1,6 @@
 # Hi there, I'm Vignesh A (VIZZARD-X) 👋
 
-### 3rd Year CSE Undergraduate @ Dr. Ambedkar Institute of Technology (Dr. AIT)
+### 3rd Year CSE Undergraduate @ Dr. Ambedkar Institute of Technology (Dr. AIT), Bangalore, India
 
 I am a backend-focused developer and open-source enthusiast with a deep interest in framework architecture, database internals, and building robust APIs. I am currently focusing my efforts on contributing to the Django core and preparing for Google Summer of Code (GSoC) 2026.
 
