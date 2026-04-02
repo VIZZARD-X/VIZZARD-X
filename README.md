@@ -4,7 +4,7 @@
 
 I am a backend-focused developer and open-source enthusiast with a deep interest in framework architecture, database internals, and building robust APIs. I am currently focusing my efforts on contributing to the Django core and preparing for Google Summer of Code (GSoC) 2026.
 
-- Constantly exploring database layers, ORM mechanics, and integration testing frameworks. Exploring new and cool stuffs one at a time.
+Constantly exploring database layers, ORM mechanics, and integration testing frameworks. Exploring new and cool stuffs one at a time.
 
 ---
 ### Recent Open Source Django Contributions
